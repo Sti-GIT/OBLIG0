@@ -1,3 +1,5 @@
 # Oblig0
 Arbeidskrav
-ny versjon
+Git versjon
+MAC versjon
+Brukernavn
