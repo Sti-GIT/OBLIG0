@@ -1,7 +1,9 @@
-# Oblig0
+# IT og informasjonssystemer
 EMNEKODE - IS-114
 
 Arbeidskrav
+
+Oblig 0
 
 Brukernavn - Sti-GIT
 
