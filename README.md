@@ -1,5 +1,10 @@
 # Oblig0
+EMNEKODE - IS-114
+
 Arbeidskrav
-Git versjon
-MAC versjon
-Brukernavn
+Brukernavn - Sti-GIT
+
+GIT versjon - 2.46.0
+
+MAC versjon - Sanoma 14.6.1
+
