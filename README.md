@@ -13,4 +13,3 @@ GIT versjon - 2.46.0
 
 MAC versjon - Sanoma 14.6.1
 
-Jeg bare elsker denne oppgaven
